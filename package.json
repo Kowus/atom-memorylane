@@ -1,5 +1,5 @@
 {
-  "name": "timeline",
+  "name": "memorylane",
   "main": "./lib/kowartscii",
   "version": "0.1.0",
   "description": "A mini project journal for your javascript.",
@@ -9,9 +9,12 @@
     "javascript",
     "journal",
     "time",
-    "date"
+    "date",
+    "throwback",
+    "memory",
+    "lane"
   ],
-  "repository": "https://github.com/Kowus/atom-timeline.git",
+  "repository": "https://github.com/Kowus/atom-memorylane.git",
   "license": "ISC",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
