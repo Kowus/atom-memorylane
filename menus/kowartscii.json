@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle kowartscii",
+        "command": "kowartscii:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "kowartscii",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "kowartscii:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "timeline",
+  "main": "./lib/kowartscii",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/kowartscii",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
