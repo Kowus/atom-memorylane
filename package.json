@@ -2,10 +2,10 @@
   "name": "timeline",
   "main": "./lib/kowartscii",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "A mini project journal for your javascript.",
+  "keywords": ["timeline","template"],
   "repository": "https://github.com/atom/kowartscii",
-  "license": "MIT",
+  "license": "ISC",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
