@@ -1,7 +1,7 @@
 {
   "name": "memorylane",
   "main": "./lib/kowartscii",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A mini project journal for your javascript.",
   "keywords": [
     "timeline",
