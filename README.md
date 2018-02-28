@@ -8,10 +8,14 @@ ____
 At the moment this package works in two ways. It works with new javascript files created in Atom.
 
 Adding timeline before you edit/save the file.
+
+
 ![timeline before edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/timeline-totally-new.gif)
 
 ____
 Adding timeline after you edit/save the file.
+
+
 ![timeline after edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/timeline-edit-first.gif)
 
 ### License
