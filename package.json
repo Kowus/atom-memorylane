@@ -1,9 +1,9 @@
 {
   "name": "timeline",
   "main": "./lib/kowartscii",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A mini project journal for your javascript.",
-  "keywords": ["timeline","template"],
+  "keywords": ["timeline","template","javascript","journal","time","date"],
   "repository": "https://github.com/Kowus/atom-timeline.git",
   "license": "ISC",
   "engines": {
