@@ -17,13 +17,13 @@ At the moment this package works in two ways only with newly created javascript 
 Adding a memory before you edit/save the file.
 
 
-![timeline before edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/tl-save-first.gif)
+![timeline before edit](https://raw.githubusercontent.com/Kowus/atom-memorylane/sss/tl-save-first.gif)
 
 ____
 
-Adding memory after you edit/save the file.
+Adding a memory after you edit/save the file.
 
-![timeline after edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/tl-edit-first.gif)
+![timeline after edit](https://raw.githubusercontent.com/Kowus/atom-memorylane/sss/tl-edit-first.gif)
 
 ### License
 ISC
