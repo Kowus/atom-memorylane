@@ -10,13 +10,13 @@ At the moment this package works in two ways. It works with new javascript files
 Adding timeline before you edit/save the file.
 
 
-![timeline before edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/timeline-totally-new.gif)
+![timeline before edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/tl-save-first.gif)
 
 ____
 Adding timeline after you edit/save the file.
 
 
-![timeline after edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/timeline-edit-first.gif)
+![timeline after edit](https://raw.githubusercontent.com/Kowus/atom-timeline/sss/tl-edit-first.gif)
 
 ### License
 ISC
